@@ -12,7 +12,7 @@ ________________________________________
 # Run
 python ytbooster_main.py
 ________________________________________
-### IMPORTANT NOTE
+# IMPORTANT NOTE
 Youtube will delete the views after 1 day sadly. 
 It is possible to increase the view time of the videos so Youtube won't be so agressive.
 Anyways, it is a good chance to use the time-limited views to gain real views, subscribers and activity.
