@@ -17,7 +17,6 @@ If you get error running the code that says you have problem with chrome_options
 The solution is to open cmd and write the next lines:
 ##### pip uninstall selenium
 ##### pip install selenium
-------------------------------
 ##### *** NOTE: when you uninstall selenium and it requests you to approve the process - hit enter or y/Y keys.
 ________________________________________
 ## IMPORTANT NOTE
