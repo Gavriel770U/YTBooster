@@ -12,6 +12,14 @@ ________________________________________
 # Run
 python ytbooster_main.py
 ________________________________________
+# Possible BUG FIX
+If you get error running the code that says you have problem with chrome_options -
+The solution is to open cmd and write the next lines:
+##### pip uninstall selenium
+##### pip install selenium
+------------------------------
+##### *** NOTE: when you uninstall selenium and it requests you to approve the process - hit enter or y/Y keys.
+________________________________________
 ## IMPORTANT NOTE
 Youtube will delete the views after 1 day sadly. 
 It is possible to increase the view time of the videos so Youtube won't be so agressive.
